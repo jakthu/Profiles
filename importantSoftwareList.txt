@@ -1,0 +1,12 @@
+# Software for setup
+File manager - vifm (vim-like)
+Terminal emulator - konsole
+Terminal multiplexer - tmux
+System monitor - ksysguard?, htop
+Window manager (if not using Desktop Environment) - i3 or Awesome
+Media player - vlc
+Video editor - kdenlive
+Image editor - GIMP
+Document/PDF viewer - Zathura (vim-like)
+Screenshot tool - flameshot
+Browser - Qutebrowser (vim-like)
