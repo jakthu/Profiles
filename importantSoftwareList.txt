@@ -1,6 +1,6 @@
 # Software for setup
 File manager - vifm (vim-like)
-Terminal emulator - konsole
+Terminal emulator - konsole or alacritty
 Terminal multiplexer - tmux
 System monitor - ksysguard?, htop
 Window manager (if not using Desktop Environment) - i3 or Awesome
